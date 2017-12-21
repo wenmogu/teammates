@@ -1,6 +1,7 @@
 <%@ page pageEncoding="UTF-8" %>
 <h4>
-  <a name="profiles">Profiles</a>
+  <span class="text-color-primary" id="profiles">Profiles
+  </span>
 </h4>
 <div id="contentHolder">
   <br>

@@ -1,6 +1,7 @@
 <%@ page pageEncoding="UTF-8" %>
 <h4>
-  <a name="sections">Sections</a>
+  <span class="text-color-primary" id="sections">Sections
+  </span>
 </h4>
 <div id="contentHolder">
   <br>

@@ -1,6 +1,7 @@
 <%@ page pageEncoding="UTF-8" %>
 <h4>
-  <a name="tips">Tips for conducting 'team peer evaluation' sessions</a>
+  <span class="text-color-primary" id="tips">Tips for conducting 'team peer evaluation' sessions
+  </span>
 </h4>
 <div id="contentHolder">
   <br>

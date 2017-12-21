@@ -1,6 +1,7 @@
 <%@ page pageEncoding="UTF-8" %>
 <h4>
-  <a name="archiving">Archiving</a>
+  <span class="text-color-primary" id="archiving">Archiving
+  </span>
 </h4>
 <div id="contentHolder">
   <br>

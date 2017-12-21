@@ -1,6 +1,7 @@
 <%@ page pageEncoding="UTF-8" %>
 <h4>
-  <a name="search">Search</a>
+  <span class="text-color-primary" id="search">Search
+  </span>
 </h4>
 <div id="contentHolder">
   <br>

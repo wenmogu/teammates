@@ -69,7 +69,7 @@
         <div class="moreInfoPointDetails">
           <ul>
             <li class="moreInfoColumnInfo">
-              <samp>Section</samp> [Compulsory for courses having more than 100 students]: Section name/ID
+              <samp>">Section</samp> [Compulsory for courses having more than 100 students]: Section name/ID
             </li>
             <li class="moreInfoColumnInfo">
               <samp>Team</samp> [Compulsory]: Team name/ID

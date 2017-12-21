@@ -1,6 +1,7 @@
 <%@ page pageEncoding="UTF-8" %>
 <h4>
-  <a name="editCourse">Add/Edit instructors</a>
+  <span class="text-color-primary" id="editCourse">Add/Edit instructors
+  </span>
 </h4>
 <div id="contentHolder">
   <br>
