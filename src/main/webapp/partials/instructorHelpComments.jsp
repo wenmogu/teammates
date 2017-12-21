@@ -8,9 +8,9 @@
   <ol style="list-style-type:none;">
     <li>
       <span class="text-bold">
-        <a name="addResponseComments">
+        <span class="text-color-primary" id="addResponseComments">
           <h3>1. Create comments for response</h3>
-        </a>
+        </span>
       </span>
       <div class="row">
         <br> To create comments for response, go to the
@@ -152,9 +152,9 @@
     </li>
     <li>
       <span class="text-bold">
-        <a name="editDeleteComments">
+        <span class="text-color-primary" id="editDeleteComments">
           <h3>2. Edit and delete comments</h3>
-        </a>
+        </span>
       </span>
       <div class="row">
         <br> Go to the same page used for adding a comment, then hover the mouse upon a comment.
@@ -169,9 +169,9 @@
     </li>
     <li>
       <span class="text-bold">
-        <a name="searchComments">
+        <span class="text-color-primary" id="searchComments">
           <h3>3. Search for comments</h3>
-        </a>
+        </span>
       </span>
       <div class="row">
         <br> Go to the

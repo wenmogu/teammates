@@ -8,9 +8,9 @@
   <ol style="list-style-type: none;">
     <li>
       <span class="text-bold">
-        <a name="viewStudentProfile">
+        <span class="text-color-primary" id="viewStudentProfile">
           <h3>1. Viewing student profiles</h3>
-        </a>
+        </span>
       </span>
       <div>
         Go to the
@@ -138,9 +138,9 @@
     </li>
     <li>
       <span class="text-bold">
-        <a name="editStudentProfile">
+        <span class="text-color-primary" id="editStudentProfile">
           <h3>2. Editing student profiles</h3>
-        </a>
+        </span>
       </span>
       <div>
         Go to the

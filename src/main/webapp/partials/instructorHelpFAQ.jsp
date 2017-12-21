@@ -8,9 +8,9 @@
     <ul>
       <li>
         <b>
-          <a name="faq1" id="question">
+          <span class="text-color-primary" id="faq1">
             How do I view a list of students in a course?
-          </a>
+          </span>
         </b>
         <div class="helpSectionContent">
           Go to the ‘Courses’ page, click ‘View’ for the relevant course.
@@ -20,9 +20,9 @@
       </li>
       <li>
         <b>
-          <a name="faq2" id="question">
+          <span class="text-color-primary" id="faq2">
             How do I change student details after enrolling?
-          </a>
+          </span>
         </b>
         <div class="helpSectionContent">
           Choose to ‘Edit’ a student from the student list (see ‘How do I view a list of students in a course?’ given above).
@@ -34,7 +34,8 @@
       </li>
       <li>
         <b>
-          <a name="faq3" id="question">How do I add more students to a course?</a>
+          <span class="text-color-primary" id="faq3">How do I add more students to a course?
+          </span>
         </b>
         <div class="helpSectionContent">
           You can use the ‘Enrol’ feature to add more students. If a student you are adding has the same email address as an existing student in the class, they will be considered the same student and the name, team name and the comment will be updated to the new values.
@@ -44,7 +45,8 @@
       </li>
       <li>
         <b>
-          <a name="faq4" id="question">How do I delete students from a course?</a>
+          <span class="text-color-primary" id="faq4">How do I delete students from a course?
+          </span>
         </b>
         <div class="helpSectionContent">
           The ‘Delete’ link is available from the student list (see ‘How do I view a list of students in a course?’ given above).
@@ -54,7 +56,8 @@
       </li>
       <li>
         <b>
-          <a name="faq6" id="question">How do I change the Google ID associated with a student?</a>
+          <span class="text-color-primary" id="faq6">How do I change the Google ID associated with a student?
+          </span>
         </b>
         <div class="helpSectionContent">
           Please contact us for assistance.
@@ -64,7 +67,8 @@
       </li>
       <li>
         <b>
-          <a name="faq7" id="question">What to do if a student says his/her courses have disappeared from the system?</a>
+          <span class="text-color-primary" id="faq7">What to do if a student says his/her courses have disappeared from the system?
+          </span>
         </b>
         <div class="helpSectionContent">
           The most likely reason for this is that the student has changed the primary email address associated with his/her Google ID. Please ask the student to email
@@ -75,7 +79,8 @@
       </li>
       <li>
         <b>
-          <a name="faq7a" id="question">How do I interpret/use contribution values in the results of ‘Team contribution’ type questions?</a>
+          <span class="text-color-primary" id="faq7a">How do I interpret/use contribution values in the results of ‘Team contribution’ type questions?
+          </span>
         </b>
         <br>
         <div class="helpSectionContent">
@@ -108,7 +113,8 @@
 
       <li>
         <b>
-          <a name="faq8" id="question">What to do if a student says he cannot submit an evaluation due to some technical glitch?</a>
+          <span class="text-color-primary" id="faq8">What to do if a student says he cannot submit an evaluation due to some technical glitch?
+          </span>
         </b>
         <div class="helpSectionContent">
           Please ask the student to contact us with the details.
@@ -119,8 +125,8 @@
       </li>
       <li>
         <b>
-          <a name="faq9" id="question">How come the actual contribution values entered by the student is different from the values shown in the results?
-          </a>
+          <span class="text-color-primary" id="faq9">How come the actual contribution values entered by the student is different from the values shown in the results?
+          </span>
         </b>
         <div class="helpSectionContent">
           This is because the system ‘normalizes’ those values so that there is no artificial inflation of contribution. For example, if a student says everyone contributed ‘Equal share + 10%’, the system automatically normalize it to ‘Equal share’ because in reality that is what the student means.
@@ -133,7 +139,8 @@
       </li>
       <li>
         <b>
-          <a name="faq10" id="question">Can a student influence his ‘perceived contribution’ value by awarding himself a larger contribution?</a>
+          <span class="text-color-primary" id="faq10">Can a student influence his ‘perceived contribution’ value by awarding himself a larger contribution?
+          </span>
         </b>
         <div class="helpSectionContent">
           No. The perceived contribution is calculated based on what his team members perceive as his contribution. His own opinion about his own contribution is not considered for the calculation.
@@ -154,9 +161,9 @@
       <br>
       <li>
         <b>
-          <a name="faq11" id="question">
+          <span class="text-color-primary" id="faq11">
             How are the contribution numbers calculated?
-          </a>
+          </span>
         </b>
         <div class="helpSectionContent">
           You can find the details of the contribution calculation scheme
@@ -166,7 +173,8 @@
       <br>
       <li>
         <b>
-          <a name="faq12" id="question">Is it compulsory for students to use Google accounts?</a>
+          <span class="text-color-primary" id="faq12">Is it compulsory for students to use Google accounts?
+          </span>
         </b>
         <div class="helpSectionContent">
           Student can submit feedback and view results without Google accounts. TEAMMATES send unique URL for each of those. But it is more convenient for them if they use Google accounts.
@@ -176,7 +184,8 @@
       </li>
       <li>
         <b>
-          <a name="faq13" id="question">What if my course doesn’t have teams?</a>
+          <span class="text-color-primary" id="faq13">What if my course doesn’t have teams?
+          </span>
         </b>
         <div class="helpSectionContent">
           They can use a dummy value for the ‘Team’ column.
@@ -186,7 +195,8 @@
       </li>
       <li>
         <b>
-          <a name="faq14" id="question">Is there a size limit for a course?</a>
+          <span class="text-color-primary" id="faq14">Is there a size limit for a course?
+          </span>
         </b>
         <div class="helpSectionContent">
           No. But courses bigger than 100 students need to divide the course into sections so that TEAMMATES know how to paginate reports when the entire report is too big to show in one go.

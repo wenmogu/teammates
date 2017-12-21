@@ -8,9 +8,9 @@
   <ol style="list-style-type: none;">
     <li>
       <span class="text-bold">
-        <a name="archivingCourse">
+        <span class="text-color-primary" id="archivingCourse">
           <h3>1. Archiving a course</h3>
-        </a>
+        </span>
       </span>
       <div>
         You can archive a course so that it doesn't appear in your home page anymore. You cannot edit, create feedback sessions or enroll students in an archived course.
@@ -65,9 +65,9 @@
     </li>
     <li>
       <span class="text-bold">
-        <a name="archivingViewArchivedCourses">
+        <span class="text-color-primary" id="archivingViewArchivedCourses">
           <h3>2. Viewing archived courses</h3>
-        </a>
+        </span>
       </span>
       <div>
         You can view all your archived courses in the <b>'Courses'</b> page, under the <b>Archived Courses</b> heading. It will look similar to this:
@@ -97,9 +97,9 @@
     </li>
     <li>
       <span class="text-bold">
-        <a name="archivingUnarchiveCourses">
+        <span class="text-color-primary" id="archivingUnarchiveCourses">
           <h3>3. Unarchiving a course</h3>
-        </a>
+        </span>
       </span>
       <div>
         You can unarchive a course by clicking on the <button href="#" class="btn btn-default btn-xs" type="button">Unarchive</button> button in the list of archived courses in the

@@ -8,7 +8,8 @@
   <ul>
     <li>
       <b>
-        <a name="editCourseAddInstructor" id="question">How do I add instructors to my course?</a>
+        <span class="text-color-primary" id="editCourseAddInstructor">How do I add instructors to my course?
+        </span>
       </b>
       <div class="helpSectionContent">
         After pressing 'edit' link of the course, you can go to course edit page, where you can add new instructors and edit existing instructors in the course. However, depending on your privilege setting, you may or may not perform certain actions.
@@ -183,7 +184,8 @@
     <br>
     <li>
       <b>
-        <a name="editCourseEditInstructor" id="question">How do I edit instructors in my course?</a>
+        <span class="text-color-primary" id="editCourseEditInstructor">How do I edit instructors in my course?
+        </span>
       </b>
       <div class="helpSectionContent">
         In course edit page, you can edit instructors in this course by pressing the 'edit' link for an instructor. After pressing the link, a form will appear for editing the instructor.
@@ -195,7 +197,8 @@
     <br>
     <li>
       <b>
-        <a name="editCourseSetAccessLevel" id="question">How do I set different access level for an instructor?</a>
+        <span class="text-color-primary" id="editCourseSetAccessLevel">How do I set different access level for an instructor?
+        </span>
       </b>
       <div class="helpSectionContent">
         When adding/editing an instructor, you can set the access level for an instructor. There are 5 options for you to choose from: Co-owner, Manager, Observer, Tutor and Custom.
@@ -213,7 +216,8 @@
     <br>
     <li>
       <b>
-        <a name="editCourseSetCustom" id="question">How do I set custom privileges for an instructor?</a>
+        <span class="text-color-primary" id="editCourseSetCustom">How do I set custom privileges for an instructor?
+        </span>
       </b>
       <div class="helpSectionContent">
         When setting the access level for an instructor as 'Custom', detailed privilege settings will be available for you.

@@ -8,9 +8,9 @@
   <ol style="list-style-type: none;">
     <li>
       <span class="text-bold">
-        <a name="sectionsWhatIsItMeantFor">
+        <span class="text-color-primary" id="sectionsWhatIsItMeantFor">
           <h3>1. What are sections meant for?</h3>
-        </a>
+        </span>
       </span>
       <p>
         Sections are meant for organizing students in courses with significantly large numbers of students. It is mandatory for courses with more than 100 students to organize students into sections.
@@ -19,9 +19,9 @@
     </li>
     <li>
       <span class="text-bold">
-        <a name="sectionsEnrollingStudents">
+        <span class="text-color-primary" id="sectionsEnrollingStudents">
           <h3>2. Enrolling students into sections</h3>
-        </a>
+        </span>
       </span>
       <p>
         You can specify the section of each student at the time of enrollment. You just have to include a
@@ -34,9 +34,9 @@
     </li>
     <li>
       <span class="text-bold">
-        <a name="sectionsEditing">
+        <span class="text-color-primary" id="sectionsEditing">
           <h3>3. Editing a student's section</h3>
-        </a>
+        </span>
       </span>
       <p>
         Go to the

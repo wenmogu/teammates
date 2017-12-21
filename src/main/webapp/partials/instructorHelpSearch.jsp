@@ -8,9 +8,9 @@
   <ol style="list-style-type: none;">
     <li>
       <span class="text-bold">
-        <a name="searchStudents">
+        <span class="text-color-primary" id="searchStudents">
           <h3>1. Searching for students</h3>
-        </a>
+        </span>
       </span>
       <div>
         You can search for students by clicking on
@@ -292,9 +292,9 @@
     </li>
     <li>
       <span class="text-bold">
-        <a name="searchCommentForResponses">
+        <span class="text-color-primary" id="searchCommentForResponses">
           <h3>2. Searching for comments on responses</h3>
-        </a>
+        </span>
       </span>
       <div>
         You can search for comments on responses given by students. To do this check
