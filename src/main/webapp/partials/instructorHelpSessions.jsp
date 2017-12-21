@@ -8,9 +8,9 @@
   <ol style="list-style-type: none;">
     <li>
       <span class="text-bold">
-        <a name="fbSetupSession">
+        <span class="text-color-primary" id="fbSetupSession">
           <h3>1. Setting up a feedback session</h3>
-        </a>
+        </span>
       </span>
       <div class="row">
         <div class="col-lg-6">
@@ -595,9 +595,9 @@
     <br>
     <li>
       <span class="text-bold">
-        <a name="fbSetupQuestions">
+        <span class="text-color-primary" id="fbSetupQuestions">
           <h3>2. Setting up questions</h3>
-        </a>
+        </span>
       </span>
       <div>
 
@@ -1405,9 +1405,9 @@
     <br>
     <li>
       <span class="text-bold">
-        <a name="fbPreview">
+        <span class="text-color-primary" id="fbPreview">
           <h3>3. Previewing a session</h3>
-        </a>
+        </span>
       </span>
 
       <p>
@@ -1465,9 +1465,9 @@
     <br>
     <li>
       <span class="text-bold">
-        <a name="fbViewResults">
+        <span class="text-color-primary" id="fbViewResults">
           <h3>4. Viewing results</h3>
-        </a>
+        </span>
       </span>
 
       <p>
@@ -2059,9 +2059,9 @@
     </li>
     <li>
       <span class="text-bold">
-        <a name="fbQuestionTypes">
+        <span class="text-color-primary" id="fbQuestionTypes">
           <h3>5. Question Types</h3>
-        </a>
+        </span>
       </span> TEAMMATES currently provides the following question types. Click to see details for each question type.
       <ul>
         <li>
@@ -2098,9 +2098,9 @@
 
       <div class="row">
         <div class="col-sm-12">
-          <a name="fbEssay">
+          <span class="text-color-primary" id="fbEssay">
             <h4>Essay Question</h4>
-          </a>
+          </span>
           Essay questions are open ended questions that allow students to give text feedback for a question.
           <br> To setup a question of this type, simply provide the question text, feedback path(giver/recipient) and visibility options.
           <br>
@@ -2417,9 +2417,9 @@
 
       <div class="row">
         <div class="col-sm-12">
-          <a name="fbMcq">
+          <span class="text-color-primary" id="fbMcq">
             <h4>Multiple-choice (single answer) question</h4>
-          </a>
+          </span>
           Multiple-choice (single answer) questions allows you to specify several options, and lets students select one of them as the answer.
           <br> Other than specifying several options by yourself, TEAMMATES also supports
           <b>generating options</b> based on the list of students, teams and instructors in the course.
@@ -3433,9 +3433,9 @@
 
       <div class="row">
         <div class="col-sm-12">
-          <a name="fbMsq">
+          <span class="text-color-primary" id="fbMsq">
             <h4>Multiple-choice (multiple answers) question</h4>
-          </a>
+          </span>
           Multiple-choice (multiple answers) question are similar to the single answer version, except that students are able to select multiple options as their response.
           <br>
           <br> The setup and result statistics is similar to the single answer version. See
@@ -3445,9 +3445,9 @@
 
       <div class="row">
         <div class="col-sm-12">
-          <a name="fbNumscale">
+          <span class="text-color-primary" id="fbNumscale">
             <h4>Numerical scale question</h4>
-          </a>
+          </span>
           Numerical scale questions are questions that allow numerical responses from students.
           <br> To set up the question, provide the question text as well as the minimum, maximum values the student can input, as well as the increment, or precision of the number that is required.
           <br> If this sounds confusing, you can fiddle with the numbers and see what the acceptable responses are.
@@ -3978,9 +3978,9 @@
 
       <div class="row">
         <div class="col-sm-12">
-          <a name="fbConstSumOptions">
+          <span class="text-color-primary" id="fbConstSumOptions">
             <h4>Distribute points (among options) question</h4>
-          </a>
+          </span>
           Distribute points (among options) question allows you to specify some options, and allow the student to split some points among these options.
           <br> To setup the question, specify the options as well as the number of points to split among the options.
           <br>
@@ -4611,9 +4611,9 @@
 
       <div class="row">
         <div class="col-sm-12">
-          <a name="fbConstSumRecipients">
+          <span class="text-color-primary" id="fbConstSumRecipients">
             <h4>Distribute points (among recipients) question</h4>
-          </a>
+          </span>
           Distribute points (among recipients) question is similar to Distribute points (among options) question. For this question type, students split points among the recipients of the question.
           <br> For example, if the question recipient is set to the giver's team members, and points to distribute in total is 100, students are required to split the 100 points among his team members.
           <br>
@@ -5091,9 +5091,9 @@
 
       <div class="row">
         <div class="col-sm-12">
-          <a name="fbContrib">
+          <span class="text-color-primary" id="fbContrib">
             <h4>Team contribution question</h4>
-          </a>
+          </span>
           Team contribution questions are a specialized question type designed for team contribution evaluations.
           <br> They allow estimation of perceived contribution of a student and prevents a student from inflating his own score. To see more details about the calculation of results and other common questions, see the FAQ
           <a href="#Top">here</a>.
@@ -6135,9 +6135,9 @@
       </div>
       <div class="row">
         <div class="col-sm-12">
-          <a name="fbRubric">
+          <span class="text-color-primary" id="fbRubric">
             <h4>Rubric question</h4>
-          </a>
+          </span>
           Rubric questions allow instructors to create multiple sub-questions, with highly customizable choices and descriptions.
           <br>
           <br> To the student, the question looks similar to:
@@ -6931,9 +6931,9 @@
 
       <div class="row">
         <div class="col-sm-12">
-          <a name="fbRankOptions">
+          <span class="text-color-primary" id="fbRankOptions">
             <h4>Rank Options question</h4>
-          </a>
+          </span>
           Rank options questions are question where the students rank options that are created by you.
           <br>
 
@@ -7345,9 +7345,9 @@
       </div>
       <div class="row">
         <div class="col-sm-12">
-          <a name="fbRankRecipients">
+          <span class="text-color-primary" id="fbRankRecipients">
             <h4>Rank Recipients question</h4>
-          </a>
+          </span>
           Rank recipients questions are questions where the students are to rank students, teams, or instructors.
           <br>
           <br> The options to rank are determined by the feedback path selected for the question. You can configure if students can give the same rank multiple times.
